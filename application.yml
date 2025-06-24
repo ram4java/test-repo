@@ -25,3 +25,7 @@ management:
 eureka:
   client:
     register-with-eureka: true
+
+emp:
+  service:
+    url: HTTP://localhost:3333/testurl
